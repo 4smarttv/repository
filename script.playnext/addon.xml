@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.playnext" name="Play Next" version="1.0" provider-name="4SmartTVBox">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+	</requires>
+	<extension point="xbmc.python.script" library="default.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<language/>
+    <summary lang="en">Play Next</summary>
+    <description lang="en">Play Next</description>
+    <platform>all</platform>
+	</extension>
+</addon>
+

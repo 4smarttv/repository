@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.PWCheck" name="Check Password for 4Smart TV Box" version="1.0" provider-name="4SmartTVBox">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+	</requires>
+	<extension point="xbmc.python.script" library="default.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<language/>
+    <summary lang="en">PWCheck 4SmartTVBox</summary>
+    <description lang="en">PWCheck 4SmartTVBox</description>
+    <platform>all</platform>
+	</extension>
+</addon>
+

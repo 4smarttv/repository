@@ -1,0 +1,9 @@
+<settings>
+    <setting id="AddOns_id" value="0" />
+    <setting id="GDrive_id" value="0" />
+    <setting id="KaraokeDB_id" value="0" />
+    <setting id="Userdata_id" value="0" />
+    <setting id="font" value="blue" />
+    <setting id="Machine_id" value="1" />
+    <setting id="DB_demo_size" value="1600000" />
+</settings>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.autoUpdate" name="Auto Update" version="1.1" provider-name="4SmartTVBox">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+	</requires>
+	<extension library="default.py" point="xbmc.service" start="startup">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<language/>
+    <summary lang="en">Auto update XBMC plugin and other</summary>
+    <description lang="en">Auto update XBMC plugin and other</description>
+    <platform>all</platform>
+	</extension>
+</addon>
+

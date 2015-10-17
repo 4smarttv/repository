@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.nextAudio" name="Play next Audio " version="1.0" provider-name="4SmartTVBox">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+	</requires>
+	<extension point="xbmc.python.script" library="default.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<language/>
+    <summary lang="en">Next Audio</summary>
+    <description lang="en">Next Audio</description>
+    <platform>all</platform>
+	</extension>
+</addon>
+

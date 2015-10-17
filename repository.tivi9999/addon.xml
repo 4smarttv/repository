@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.tivi9999" name="tivi9999's Repository" version="1.0.4	" provider-name="tivi9999">
+	<extension point="xbmc.addon.repository" name="tv9999's Add-on Repository">
+		<info compressed="true">http://usbay.net/repo/addons.xml</info>
+		<checksum>http://usbay.net/repo/addons.xml.md5</checksum>
+		<datadir zip="true">http://usbay.net/repo</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">tivi9999's repository</summary>
+		<description lang="en">Download and install add-ons from the tivi9999's repository.</description>
+		<platform>all</platform>
+	</extension>
+</addon>
