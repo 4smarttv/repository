@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.4SmartTVBoxTest" name="4SmartTVBoxTest's Repo" version="1.0" provider-name="4SmartTVBoxTest">
 	<extension point="xbmc.addon.repository" name="4SmartTVBoxTest's Repo">
-		<info compressed="false">https://github.com/4smarttv/repository/addons.xml</info>
-		<checksum>https://github.com/4smarttv/repository/addons.xml.md5</checksum>
-		<datadir zip="true">https://github.com/4smarttv/repository/</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/4smarttv/repository/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/4smarttv/repository/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/4smarttv/repository/master/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Install 4SmartTVboxTest Addons</summary>
